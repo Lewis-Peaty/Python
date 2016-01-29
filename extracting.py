@@ -1,3 +1,4 @@
+# Make it look like the computer is extracting something...
 import time
 import random
 
