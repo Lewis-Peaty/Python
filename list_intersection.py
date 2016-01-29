@@ -1,3 +1,4 @@
+# Example syntax for getting the intersection of two lists
 set1 = ["a","b","c","d","e"]
 set2 = ["a","b","f"]
 set3 = []
